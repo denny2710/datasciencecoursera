@@ -1,2 +1,2 @@
-# datasciencecoursera
-## Added as part of the data Science course of Coursera
+# Course Project
+## Added as part of the Data Science Course of Coursera
